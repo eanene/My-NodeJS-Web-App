@@ -12,7 +12,7 @@ const HOST = '0.0.0.0';
 // App
 const app = express();
 app.get('/', (req, res) => {
-  res.send('Welcome to Ebuka NodeJS application');
+  res.send('Welcome to Ebuka NodeJS application version 2');
 });
 
 app.listen(PORT, HOST);
