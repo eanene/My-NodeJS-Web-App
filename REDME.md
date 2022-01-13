@@ -1,0 +1,1 @@
+This code builds a docker image and pushes it to docker hub using jenkins
